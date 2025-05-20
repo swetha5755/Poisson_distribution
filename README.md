@@ -1,6 +1,6 @@
 
 # Name: Swetha S
-# Reg no: 21224040344
+# Reg no: 212224040344
 # Dept: CSE
 
 # Fitting Poisson  distribution
